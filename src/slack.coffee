@@ -2,6 +2,9 @@
 
 class SlackEnableNoticeBot extends SlackBot
 
+  constructor: (robot) ->
+    super
+
   notice: (envelope, messages...) ->
     @robot.logger.debug "Sending notice"
 

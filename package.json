@@ -1,6 +1,6 @@
 {
   "name": "hubot-slack-notice",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This module enables hubot-slack to notice command",
   "main": "index.js",
   "private": false,
